@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\ConsoleTaskScheduler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDEDD57-40F6-41BB-B313-1A79E85AB65B}|ConsoleTaskScheduler\\ConsoleTaskScheduler.vcxproj|X:\\ConsoleTaskScheduler\\ConsoleTaskScheduler\\test_scheduler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFDEDD57-40F6-41BB-B313-1A79E85AB65B}|ConsoleTaskScheduler\\ConsoleTaskScheduler.vcxproj|solutionrelative:ConsoleTaskScheduler\\test_scheduler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDEDD57-40F6-41BB-B313-1A79E85AB65B}|ConsoleTaskScheduler\\ConsoleTaskScheduler.vcxproj|X:\\ConsoleTaskScheduler\\ConsoleTaskScheduler\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFDEDD57-40F6-41BB-B313-1A79E85AB65B}|ConsoleTaskScheduler\\ConsoleTaskScheduler.vcxproj|solutionrelative:ConsoleTaskScheduler\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDEDD57-40F6-41BB-B313-1A79E85AB65B}|ConsoleTaskScheduler\\ConsoleTaskScheduler.vcxproj|X:\\ConsoleTaskScheduler\\ConsoleTaskScheduler\\TaskScheduler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFDEDD57-40F6-41BB-B313-1A79E85AB65B}|ConsoleTaskScheduler\\ConsoleTaskScheduler.vcxproj|solutionrelative:ConsoleTaskScheduler\\TaskScheduler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDEDD57-40F6-41BB-B313-1A79E85AB65B}|ConsoleTaskScheduler\\ConsoleTaskScheduler.vcxproj|X:\\ConsoleTaskScheduler\\ConsoleTaskScheduler\\TaskScheduler.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFDEDD57-40F6-41BB-B313-1A79E85AB65B}|ConsoleTaskScheduler\\ConsoleTaskScheduler.vcxproj|solutionrelative:ConsoleTaskScheduler\\TaskScheduler.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDEDD57-40F6-41BB-B313-1A79E85AB65B}|ConsoleTaskScheduler\\ConsoleTaskScheduler.vcxproj|X:\\ConsoleTaskScheduler\\ConsoleTaskScheduler\\ThreadPool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFDEDD57-40F6-41BB-B313-1A79E85AB65B}|ConsoleTaskScheduler\\ConsoleTaskScheduler.vcxproj|solutionrelative:ConsoleTaskScheduler\\ThreadPool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDEDD57-40F6-41BB-B313-1A79E85AB65B}|ConsoleTaskScheduler\\ConsoleTaskScheduler.vcxproj|X:\\ConsoleTaskScheduler\\ConsoleTaskScheduler\\ThreadPool.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFDEDD57-40F6-41BB-B313-1A79E85AB65B}|ConsoleTaskScheduler\\ConsoleTaskScheduler.vcxproj|solutionrelative:ConsoleTaskScheduler\\ThreadPool.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_scheduler.cpp",
+              "DocumentMoniker": "X:\\ConsoleTaskScheduler\\ConsoleTaskScheduler\\test_scheduler.cpp",
+              "RelativeDocumentMoniker": "ConsoleTaskScheduler\\test_scheduler.cpp",
+              "ToolTip": "X:\\ConsoleTaskScheduler\\ConsoleTaskScheduler\\test_scheduler.cpp",
+              "RelativeToolTip": "ConsoleTaskScheduler\\test_scheduler.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T19:47:55.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskScheduler.hpp",
+              "DocumentMoniker": "X:\\ConsoleTaskScheduler\\ConsoleTaskScheduler\\TaskScheduler.hpp",
+              "RelativeDocumentMoniker": "ConsoleTaskScheduler\\TaskScheduler.hpp",
+              "ToolTip": "X:\\ConsoleTaskScheduler\\ConsoleTaskScheduler\\TaskScheduler.hpp",
+              "RelativeToolTip": "ConsoleTaskScheduler\\TaskScheduler.hpp",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-09T19:46:41.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskScheduler.cpp",
+              "DocumentMoniker": "X:\\ConsoleTaskScheduler\\ConsoleTaskScheduler\\TaskScheduler.cpp",
+              "RelativeDocumentMoniker": "ConsoleTaskScheduler\\TaskScheduler.cpp",
+              "ToolTip": "X:\\ConsoleTaskScheduler\\ConsoleTaskScheduler\\TaskScheduler.cpp",
+              "RelativeToolTip": "ConsoleTaskScheduler\\TaskScheduler.cpp",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T19:46:33.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThreadPool.hpp",
+              "DocumentMoniker": "X:\\ConsoleTaskScheduler\\ConsoleTaskScheduler\\ThreadPool.hpp",
+              "RelativeDocumentMoniker": "ConsoleTaskScheduler\\ThreadPool.hpp",
+              "ToolTip": "X:\\ConsoleTaskScheduler\\ConsoleTaskScheduler\\ThreadPool.hpp",
+              "RelativeToolTip": "ConsoleTaskScheduler\\ThreadPool.hpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAgwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-09T19:46:22.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThreadPool.cpp",
+              "DocumentMoniker": "X:\\ConsoleTaskScheduler\\ConsoleTaskScheduler\\ThreadPool.cpp",
+              "RelativeDocumentMoniker": "ConsoleTaskScheduler\\ThreadPool.cpp",
+              "ToolTip": "X:\\ConsoleTaskScheduler\\ConsoleTaskScheduler\\ThreadPool.cpp",
+              "RelativeToolTip": "ConsoleTaskScheduler\\ThreadPool.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T19:46:14.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "X:\\ConsoleTaskScheduler\\ConsoleTaskScheduler\\main.cpp",
+              "RelativeDocumentMoniker": "ConsoleTaskScheduler\\main.cpp",
+              "ToolTip": "X:\\ConsoleTaskScheduler\\ConsoleTaskScheduler\\main.cpp",
+              "RelativeToolTip": "ConsoleTaskScheduler\\main.cpp",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T19:45:05.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
